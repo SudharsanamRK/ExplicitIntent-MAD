@@ -1,16 +1,16 @@
 # Ex.No:3b To create a two screens , first screen will take one number input from user. After click on Factorial button, second screen will open and it should display factorial of the same number using Explicit Intents.
 
 
-## AIM:
+## AIM
 
 To create a two screens , first screen will take one number input from user. After click on Factorial button, second screen will open and it should display factorial of the same number using Explicit Intents.
 
 
-## EQUIPMENTS REQUIRED:
+## EQUIPMENTS REQUIRED
 
 Latest Version Android Studio
 
-## ALGORITHM:
+## ALGORITHM
 Step 1: Create a New Project in Android Studio
 
 Step 2: Working with the activity_main.xml File
@@ -22,15 +22,13 @@ Step 4: Working with the activity_main2.xml File
 Step 5: Working with the MainActivity2 File
 
 
-## PROGRAM:
+## PROGRAM
 ```
-/*
 Program to print the text “ExplicitIntent”.
 Developed by:  Sudharsanam R K
 Registeration Number : 212222040163
-*/
 ```
-## MainActivity.java
+## In MainActivity.java
 ```java
 package com.example.explicitintent;
 import androidx.appcompat.app.AppCompatActivity;
@@ -93,7 +91,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
-## SecondActivity.java
+## In SecondActivity.java
 ```java
 package com.example.explicitintent;
 
@@ -124,7 +122,7 @@ public class SecondActivity extends AppCompatActivity {
     }
 }
 ```
-## activity_main.xml
+## In activity_main.xml
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -158,7 +156,7 @@ public class SecondActivity extends AppCompatActivity {
 
 </LinearLayout>
 ```
-## acitvity_second.xml
+## In acitvity_second.xml
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -186,9 +184,5 @@ public class SecondActivity extends AppCompatActivity {
 ![if error](https://github.com/SudharsanamRK/ExplicitIntent-MAD/assets/115523484/61ff1aa2-91bd-4a60-a95a-6d5a7c5d22e6)
 
 
-
-
 ## RESULT
 Thus a Simple Android Application create a Explicit Intents using Android Studio is developed and executed successfully.
-
-
