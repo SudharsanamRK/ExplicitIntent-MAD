@@ -179,8 +179,11 @@ public class SecondActivity extends AppCompatActivity {
 
 ## OUTPUT
 ![request](https://github.com/SudharsanamRK/ExplicitIntent-MAD/assets/115523484/53c48597-078e-42d9-a200-39bd42ad72ed)
+
 ![factorial i/p](https://github.com/SudharsanamRK/ExplicitIntent-MAD/assets/115523484/86727777-d6ac-47cf-9436-625226ed2aa3)
+
 ![factorial o/p](https://github.com/SudharsanamRK/ExplicitIntent-MAD/assets/115523484/d6182352-4055-4f0a-8847-655824559a6b)
+
 ![if error](https://github.com/SudharsanamRK/ExplicitIntent-MAD/assets/115523484/61ff1aa2-91bd-4a60-a95a-6d5a7c5d22e6)
 
 
