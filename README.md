@@ -60,7 +60,8 @@ public class MainActivity extends AppCompatActivity {
                 calculateFactorial();
             }
         });
-
+```
+```
         buttonExplicit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -68,8 +69,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-```
-```
 
     private void calculateFactorial() {
         int number = Integer.parseInt(editTextNumber.getText().toString());
